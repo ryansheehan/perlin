@@ -8,6 +8,13 @@ a simple perlin implementation and a python 3 port of a java simplex noise algor
 ## Dependencies
 * https://github.com/python-pillow/Pillow
 
+## Instructions
+* running app/main.py will run a crude implementation of original perlin noise
+* running app/python.py will run a crude implementation of original perlin noise
+* running app/simplex.py will run Stefan Gustavson's simplex noise
+* all 3 files output app/test.png
+
+
 ## TODO
 * could use more unit tests.
 * command line interface for the parameters
