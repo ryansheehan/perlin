@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sim",
+				"Simplex2D"
+			],
+			[
+				"hsv",
+				"hsv_to_rgb〔function〕"
+			],
+			[
+				"cos",
+				"cos_interp〔function〕"
+			],
+			[
+				"get",
+				"get1dfColor〔function〕"
+			],
+			[
+				"_leng",
+				"_length_sq_dirty"
+			],
+			[
+				"_len",
+				"_length_dirty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/main.py",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/perlin.py",
+			"settings":
+			{
+				"buffer_size": 1675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/simplex.py",
+			"settings":
+			{
+				"buffer_size": 5669,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/color_helpers.py",
+			"settings":
+			{
+				"buffer_size": 2172,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/interpolation.py",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "ss jav",
+		"selected_items":
+		[
+			[
+				"ss jav",
+				"Set Syntax: Java"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"repl python",
+				"SublimeREPL: Python"
+			],
+			[
+				"re",
+				"SublimeREPL: Python"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/_Dev/Personal/Python/perlin/perlin",
+		"/C/_Dev/Personal/Python/perlin/perlin/app",
+		"/C/_Dev/Personal/Python/perlin/perlin/Lib"
+	],
+	"file_history":
+	[
+		"/c/_Dev/Personal/Python/perlin/perlin/lib/site-packages/PIL/Image.py",
+		"/C/_Dev/Personal/Python/perlin/perlin/build.bat",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/User/venv.sublime-build",
+		"/C/_Dev/Personal/Python/perlin/perlin/app/vector.py",
+		"/C/_Dev/Personal/Python/perlin/perlin/app/test_vector.py",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+		"/C/_Dev/Financial/Financial_Refactor/Server/Financial/packages/SpecFlow.1.9.0/tools/specflow.exe.config",
+		"/C/Users/ryan.sheehan.TYLER/Desktop/testcode.cs",
+		"/C/_Dev/Personal/Python/perlin/perlin/app/test.png",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/_Dev/Financial/Financial_Refactor/TylerEAF/Models/Financial/Entities/Classes/Transaction.cs",
+		"/C/_Dev/Personal/Python/perlin/perlin/app/tests/__init__.py",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/_Dev/Personal/Python/perlin/perlin/app/__init__.py",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ryan.sheehan.TYLER/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/ryan.sheehan.TYLER/Desktop/eaf tools.txt",
+		"/C/_Dev/Personal/Python/cocos2d/circles/app/hello_world.py",
+		"/C/Program Files (x86)/Microsoft Visual Studio 12.0/Common7/IDE/MSTest.exe.config",
+		"/C/Users/ryan.sheehan.TYLER/Desktop/cocos2d-0.6.0/cocos2d-0.6.0/samples/hello_world.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"0",
+			",",
+			"new ",
+			"random",
+			"twopi",
+			"pi",
+			"twopi",
+			"target",
+			"current",
+			"Is",
+			"Vector3",
+			"Vector",
+			"Vector._approx_eq",
+			"Vector.approx_eq",
+			".approx_eq",
+			"approx_eq",
+			"_approx_eq",
+			"zero",
+			"self._dirty = True",
+			".z",
+			".y",
+			".x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Vector2",
+			"Vector3",
+			"_approx_eq",
+			"._approx_eq",
+			"approx_eq",
+			"self._makeDirty()",
+			"._z",
+			"._y",
+			"._x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/perlin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/simplex.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5669,
+								5669
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/color_helpers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								821
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/interpolation.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"file": "app/test.png",
+					"semi_transient": false,
+					"stack_index": 0,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 265.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/venv.sublime-build",
+	"project": "perlin.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
